@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "888524EFA4EA019AAE9E1C5E66F7B5821B3C6986",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "888524EFA4EA019AAE9E1C5E66F7B5821B3C6986" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ACB7483A-585F-45F0-8276-A2B01406CCE7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "888524EFA4EA019AAE9E1C5E66F7B5821B3C6986" : "grf\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "xcode",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "core\/xcode\/xcode.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/swager\/grf",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "888524EFA4EA019AAE9E1C5E66F7B5821B3C6986"
+    }
+  ]
+}
